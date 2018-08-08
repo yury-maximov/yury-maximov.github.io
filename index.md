@@ -1,7 +1,7 @@
 # Yury Maximov
 
-Research Scientist at Los Alamos National Laboratory, Theoretical Division T-5
-Assistant Professor at Skolkovo Institute of Science and Technology, Center for Energy Systems
+- Research Scientist at Los Alamos National Laboratory, Theoretical Division T-5
+- Assistant Professor at Skolkovo Institute of Science and Technology, Center for Energy Systems
 
 ## Yury Maximov
 
