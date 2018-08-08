@@ -23,6 +23,8 @@
 `Moscow Institute of Physics and Technology`
 - 2016, Daria Reshetova, , (now at Stanford University, PhD)
 - 2016, Alexander Podkopaev (now at Skolkovo Institute of Science and Technology, MSc)
+- 2017, Sergei Volodin, now at EPFL
+- 2017, Roman Pogodin, now at University Colldge, London, PhD
 - 2018, Alexey Sholokhov, , (now at University of Washington, PhD)
 
 `Skolkovo Institute of Science and Technology`
@@ -31,10 +33,13 @@
 
 ### Internship Advisor
 
-`Los Alamos National Laboratory` and `Skolkovo Institute of Science and Technology`
-- Igor Molibog, University of Califormia Berkeley, PhD
-- Andrii Riazanov, Carnegie Mellon University, PhD
-- 
+`Los Alamos National Laboratory`
+- 2017, Igor Molibog, University of Califormia Berkeley, PhD
+- 2017, Andrii Riazanov, Carnegie Mellon University, PhD
+- 2017, Oleh Horodnitskii, now at Skolkovo Institute of Science and Technology
+
+`Skolkovo Institute of Science and Technology`
+- 2017, Valerya Kovaleva, now at Imperial Colledge, London
 
 `Los Alamos National Laboratory` 
 - Dongchan Lee, MIT - Massachusetts Institute of Technology
