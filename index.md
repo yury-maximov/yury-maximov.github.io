@@ -9,6 +9,28 @@
 - Control and Analysis of Power Grids
 - Convex and Combbinatorial Optimization 
 
+
+## Research Group
+
+- Alexandra Burashnikova, PhD, Skolkovo Institute of Science and Technology
+- Mikhail Krechetov, PhD, Skolkovo Institute of Science and Technology
+- Alexander Lukashevich, MSc, Skolkovo Institute of Science and Technology
+
+## Alumni 
+
+### Thesis Advisor
+`Moscow Institute of Physics and Technology`
+- Daria Reshetova, , (now at Stanford University, PhD)
+- Alexander Podkopaev (now at Skolkovo Institute of Science and Technology, MSc)
+- Alexey Sholokhov, , (now at University of Washington)
+
+### Internship Advisor
+
+`Los Alamos National Laboratory` and `Skolkovo Institute of Science and Technology`
+- Igor Molibog, University of Califormia Berkeley
+- Andrii Riazanov, Carnegie Mellon University
+- 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
