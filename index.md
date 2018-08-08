@@ -3,11 +3,11 @@
 - Research Scientist at Los Alamos National Laboratory, Theoretical Division T-5
 - Assistant Professor at Skolkovo Institute of Science and Technology, Center for Energy Systems
 
-## Yury Maximov
+## Research Interests
 
-You can use the [editor on GitHub](https://github.com/yury-maximov/yury-maximov.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Statistical Theory of Machine Learning
+- Control and Analysis of Power Grids
+- Convex Optimization 
 
 ### Markdown
 
