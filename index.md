@@ -7,7 +7,7 @@
 
 - Statistical Theory of Machine Learning
 - Control and Analysis of Power Grids
-- Convex Optimization 
+- Convex and Combbinatorial Optimization 
 
 ### Markdown
 
