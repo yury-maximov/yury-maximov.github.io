@@ -1,7 +1,7 @@
 # Yury Maximov
 
-- Staff Research Scientist at Los Alamos National Laboratory, [Theoretical Division T-5][https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php] and [CNLS][https://cnls.lanl.gov/External/] 
-- Assistant Professor at [Skolkovo Institute of Science and Technology][https://www.skoltech.ru/en/]
+- Staff Research Scientist at Los Alamos National Laboratory, [Theoretical Division T-5](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) and [CNLS](https://cnls.lanl.gov/External/) 
+- Assistant Professor at [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/)
 
 ## Research Interests
 
