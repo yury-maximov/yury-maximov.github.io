@@ -29,18 +29,16 @@
 - Samal Kubentaeva, Moscow Institute of Physics and Technology 
 (Importance Sampling)
 
-## Collaboration
-
 ## Alumni 
 
 ### Thesis Advisor
 `Moscow Institute of Physics and Technology`
-- 2016, Daria Reshetova, now at Stanford University, PhD
-- 2016, Alexander Podkopaev (now at Skolkovo Institute of Science and Technology, MSc)
-- 2017, [Sergei Volodin](https://scholar.google.com/citations?user=AsDOBXIAAAAJ&hl=en), now at Ecole Polytechnic Federale de Lausanne
-- 2017, [Roman Pogodin](https://scholar.google.com/citations?user=kLCmh2oAAAAJ&hl=en), now at University Colldge, London, PhD
+- 2016, Daria Reshetova, now at Stanford University, Ph.D.
+- 2016, Alexander Podkopaev, now at Skolkovo Institute of Science and Technology, MS.C.
+- 2017, [Sergei Volodin](https://scholar.google.com/citations?user=AsDOBXIAAAAJ&hl=en), now at Ecole Polytechnic Federale de Lausanne, Ph.D.
+- 2017, [Roman Pogodin](https://scholar.google.com/citations?user=kLCmh2oAAAAJ&hl=en), now at University Colldge, London, Ph.D.
 - 2017, Valerya Kovaleva, now at Imperial Colledge, London (jointly with Prof. [Sergei Nechaev](https://www.poncelet.ru/people/dr-sergei-nechaev))
-- 2018, [Alexey Sholokhov](https://amath.washington.edu/people/alexey-sholokhov), now at University of Washington, PhD
+- 2018, [Alexey Sholokhov](https://amath.washington.edu/people/alexey-sholokhov), now at University of Washington, Ph.D.
 
 `Skolkovo Institute of Science and Technology`
 - 2018, Alena Shilova, , 
