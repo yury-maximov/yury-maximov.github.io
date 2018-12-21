@@ -38,6 +38,7 @@
 - 2017, [Sergei Volodin](https://scholar.google.com/citations?user=AsDOBXIAAAAJ&hl=en), now at Ecole Polytechnic Federale de Lausanne, Ph.D.
 - 2017, [Roman Pogodin](https://scholar.google.com/citations?user=kLCmh2oAAAAJ&hl=en), now at University Colldge, London, Ph.D.
 - 2017, Valerya Kovaleva, now at Imperial Colledge, London, jointly with Prof. [Sergei Nechaev](https://www.poncelet.ru/people/dr-sergei-nechaev)
+- 2017, Oleh Horodnitskii, now at Skolkovo Institute of Science and Technology
 - 2018, [Alexey Sholokhov](https://amath.washington.edu/people/alexey-sholokhov), now at University of Washington, Ph.D.
 
 `Skolkovo Institute of Science and Technology`
@@ -47,9 +48,9 @@
 ### Internship Advisor
 
 `Los Alamos National Laboratory`
-- 2017, Igor Molibog, University of Califormia Berkeley, PhD
-- 2017, Andrii Riazanov, Carnegie Mellon University, PhD
-- 2017, Oleh Horodnitskii, now at Skolkovo Institute of Science and Technology
+- 2017, [Igor Molibog](https://www.ocf.berkeley.edu/~igormolybog/), University of Califormia Berkeley, PhD
+- 2017, [Andrii Riazanov](https://www.andrew.cmu.edu/user/ariazano/riazanov.html), Carnegie Mellon University, PhD
+
 
 
 `Los Alamos National Laboratory` 
