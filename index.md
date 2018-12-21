@@ -1,19 +1,34 @@
 # Yury Maximov
 
-- Research Scientist at Los Alamos National Laboratory, Theoretical Division T-5
-- Assistant Professor at Skolkovo Institute of Science and Technology, Center for Energy Systems
+- Staff Research Scientist at Los Alamos National Laboratory, [https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php Theoretical Division T-5] and [https://cnls.lanl.gov/External/ CNLS] 
+- Assistant Professor at [https://www.skoltech.ru/en/ Skolkovo Institute of Science and Technology]
 
 ## Research Interests
 
 - Statistical Theory of Machine Learning
-- Control and Analysis of Power Grids
 - Convex and Combbinatorial Optimization 
+- Control and Analysis of Power Grids
 
 ## Research Group
 
-- Alexandra Burashnikova, PhD, Skolkovo Institute of Science and Technology
-- Mikhail Krechetov, PhD, Skolkovo Institute of Science and Technology
-- Alexander Lukashevich, MSc, Skolkovo Institute of Science and Technology
+Ph.D students: 
+
+- Alexandra Burashnikova, Skolkovo Institute of Science and Technology
+(Statistical Theory of Large-Scale Recommender Systems, joint;y supervised with [http://ama.liglab.fr/~amini/ Prof. Massih Amini])
+- Mikhail Krechetov, Skolkovo Institute of Science and Technology
+(Convex Relaxations of Non-convex QCQP with Applications to Power Systems and Quantum Computing)
+
+MS.C. students: 
+- Alexander Lukashevich, Skolkovo Institute of Science and Technology
+(Optimization in Gas Grids, jointly supervised with [http://lab7.ipu.ru/eng/people/polyak.html Prof. Boris Polyak])
+- Alexander Emchinov, Moscow Institute of Physics and Technology 
+(Bayesian Statistics for Power Systems,  jointly supervised with [http://meche.mit.edu/people/staff/petrvoro@mit.edu Dr. Petr Vorob'ev])
+- Artem Mikhalev, Moscow Institute of Physics and Technology 
+(Bayesian Statistics for Power Systems,  jointly supervised with [http://meche.mit.edu/people/staff/petrvoro@mit.edu Dr. Petr Vorob'ev])
+- Vasily Novitsky, Moscow Institute of Physics and Technology 
+(Importance Sampling)
+- Samal Kubentaeve, Moscow Institute of Physics and Technology 
+(Importance Sampling)
 
 ## Collaboration
 
