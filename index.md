@@ -37,12 +37,12 @@
 - 2016, Alexander Podkopaev, now at Skolkovo Institute of Science and Technology, MS.C.
 - 2017, [Sergei Volodin](https://scholar.google.com/citations?user=AsDOBXIAAAAJ&hl=en), now at Ecole Polytechnic Federale de Lausanne, Ph.D.
 - 2017, [Roman Pogodin](https://scholar.google.com/citations?user=kLCmh2oAAAAJ&hl=en), now at University Colldge, London, Ph.D.
-- 2017, Valerya Kovaleva, now at Imperial Colledge, London (jointly with Prof. [Sergei Nechaev](https://www.poncelet.ru/people/dr-sergei-nechaev))
+- 2017, Valerya Kovaleva, now at Imperial Colledge, London, jointly with Prof. [Sergei Nechaev](https://www.poncelet.ru/people/dr-sergei-nechaev)
 - 2018, [Alexey Sholokhov](https://amath.washington.edu/people/alexey-sholokhov), now at University of Washington, Ph.D.
 
 `Skolkovo Institute of Science and Technology`
-- 2018, Alena Shilova, , 
-- 2018, Marina Danilova (jointly with Prof. Boris Polyak)
+- 2018, Alena Shilova, [Skoltech Best Thesis Award](https://www.skoltech.ru/en/2018/06/the-graduation-of-skoltech-s-class-of-2018-a-photo-essay/)
+- 2018, Marina Danilova, jointly with [Prof. Boris Polyak](http://lab7.ipu.ru/eng/people/polyak.html]), continues as Ph.D. at the Institute of Control Sciences RAS
 
 ### Internship Advisor
 
