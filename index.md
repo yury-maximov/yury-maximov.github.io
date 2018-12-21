@@ -1,4 +1,4 @@
-![Image of Yury](https://github.com/yury-maximov/yury-maximov.github.io/blob/master/profile.jpg)
+![Image of Yury](https://github.com/yury-maximov/yury-maximov.github.io/blob/master/img.png)
 
 
 # Yury Maximov
