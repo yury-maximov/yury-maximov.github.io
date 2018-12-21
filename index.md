@@ -16,7 +16,7 @@
 `Ph.D students`
 - [Aleksandra Burashnikova](https://github.com/sashaburashnikova), Skolkovo Institute of Science and Technology and University Grenoble-Alpes
 (Statistical Theory of Large-Scale Recommender Systems, jointy supervised with [Prof. Massih Amini](http://ama.liglab.fr/~amini/))
-- Mikhail Krechetov, Skolkovo Institute of Science and Technology
+- [Mikhail Krechetov](https://github.com/mkrechetov/), Skolkovo Institute of Science and Technology
 (Convex Relaxations of Non-convex QCQP with Applications to Power Systems and Quantum Computing)
 
 `MS.C. students` 
