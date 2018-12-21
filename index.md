@@ -13,18 +13,18 @@
 
 Ph.D students: 
 
-- Alexandra Burashnikova, Skolkovo Institute of Science and Technology and University Grenoble-Alpes
-(Statistical Theory of Large-Scale Recommender Systems, jointy supervised with [Prof. Massih Amini][http://ama.liglab.fr/~amini/])
+- [Alexandra Burashnikova](https://github.com/sashaburashnikova), Skolkovo Institute of Science and Technology and University Grenoble-Alpes
+(Statistical Theory of Large-Scale Recommender Systems, jointy supervised with [Prof. Massih Amini](http://ama.liglab.fr/~amini/))
 - Mikhail Krechetov, Skolkovo Institute of Science and Technology
 (Convex Relaxations of Non-convex QCQP with Applications to Power Systems and Quantum Computing)
 
 MS.C. students: 
 - Alexander Lukashevich, Skolkovo Institute of Science and Technology
-(Optimization in Gas Grids, jointly supervised with [Prof. Boris Polyak][http://lab7.ipu.ru/eng/people/polyak.html])
+(Optimization in Gas Grids, jointly supervised with [Prof. Boris Polyak](http://lab7.ipu.ru/eng/people/polyak.html])
 - Alexander Emchinov, Moscow Institute of Physics and Technology 
-(Bayesian Statistics for Power Systems,  jointly supervised with [Dr. Petr Vorob'ev][http://meche.mit.edu/people/staff/petrvoro@mit.edu])
+(Bayesian Statistics for Power Systems,  jointly supervised with [Dr. Petr Vorob'ev](http://meche.mit.edu/people/staff/petrvoro@mit.edu))
 - Artem Mikhalev, Moscow Institute of Physics and Technology 
-(Bayesian Statistics for Power Systems,  jointly supervised with [Dr. Petr Vorob'ev][http://meche.mit.edu/people/staff/petrvoro@mit.edu])
+(Bayesian Statistics for Power Systems,  jointly supervised with [Dr. Petr Vorob'ev](http://meche.mit.edu/people/staff/petrvoro@mit.edu))
 - Vasily Novitsky, Moscow Institute of Physics and Technology 
 (Importance Sampling)
 - Samal Kubentaeve, Moscow Institute of Physics and Technology 
