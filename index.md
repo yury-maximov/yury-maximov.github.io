@@ -6,19 +6,18 @@
 ## Research Interests
 
 - Statistical Theory of Machine Learning
-- Convex and Combbinatorial Optimization 
+- Convex and Combinatorial Optimization 
 - Control and Analysis of Power Grids
 
 ## Research Group
 
-Ph.D students: 
-
-- [Alexandra Burashnikova](https://github.com/sashaburashnikova), Skolkovo Institute of Science and Technology and University Grenoble-Alpes
+`Ph.D students`
+- [Aleksandra Burashnikova](https://github.com/sashaburashnikova), Skolkovo Institute of Science and Technology and University Grenoble-Alpes
 (Statistical Theory of Large-Scale Recommender Systems, jointy supervised with [Prof. Massih Amini](http://ama.liglab.fr/~amini/))
 - Mikhail Krechetov, Skolkovo Institute of Science and Technology
 (Convex Relaxations of Non-convex QCQP with Applications to Power Systems and Quantum Computing)
 
-MS.C. students: 
+`MS.C. students` 
 - Alexander Lukashevich, Skolkovo Institute of Science and Technology
 (Optimization in Gas Grids, jointly supervised with [Prof. Boris Polyak](http://lab7.ipu.ru/eng/people/polyak.html])
 - Alexander Emchinov, Moscow Institute of Physics and Technology 
@@ -27,7 +26,7 @@ MS.C. students:
 (Bayesian Statistics for Power Systems,  jointly supervised with [Dr. Petr Vorob'ev](http://meche.mit.edu/people/staff/petrvoro@mit.edu))
 - Vasily Novitsky, Moscow Institute of Physics and Technology 
 (Importance Sampling)
-- Samal Kubentaeve, Moscow Institute of Physics and Technology 
+- Samal Kubentaeva, Moscow Institute of Physics and Technology 
 (Importance Sampling)
 
 ## Collaboration
@@ -36,11 +35,11 @@ MS.C. students:
 
 ### Thesis Advisor
 `Moscow Institute of Physics and Technology`
-- 2016, Daria Reshetova, , (now at Stanford University, PhD)
+- 2016, Daria Reshetova, now at Stanford University, PhD
 - 2016, Alexander Podkopaev (now at Skolkovo Institute of Science and Technology, MSc)
-- 2017, Sergei Volodin, now at EPFL
-- 2017, Roman Pogodin, now at University Colldge, London, PhD
-- 2018, Alexey Sholokhov, , (now at University of Washington, PhD)
+- 2017, [Sergei Volodin](https://scholar.google.com/citations?user=AsDOBXIAAAAJ&hl=en), now at Ecole Polytechnic Federale de Lausanne
+- 2017, [Roman Pogodin](https://scholar.google.com/citations?user=kLCmh2oAAAAJ&hl=en), now at University Colldge, London, PhD
+- 2018, [Alexey Sholokhov](https://amath.washington.edu/people/alexey-sholokhov), now at University of Washington, PhD
 
 `Skolkovo Institute of Science and Technology`
 - 2018, Alena Shilova, , 
