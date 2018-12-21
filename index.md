@@ -1,5 +1,5 @@
 Inline-style: 
-![alt text](https://github.com/yury-maximov/yury-maximov.github.io/blob/master/git-profile.jpeg "Logo Title Text 1")
+![alt text](https://github.com/yury-maximov/yury-maximov.github.io/blob/master/profile.jpg "Logo Title Text 1")
 
 
 # Yury Maximov
