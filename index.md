@@ -1,7 +1,7 @@
 # Yury Maximov
 
-- Staff Research Scientist at Los Alamos National Laboratory, [https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php Theoretical Division T-5] and [https://cnls.lanl.gov/External/ CNLS] 
-- Assistant Professor at [https://www.skoltech.ru/en/ Skolkovo Institute of Science and Technology]
+- Staff Research Scientist at Los Alamos National Laboratory, [Theoretical Division T-5][https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php] and [CNLS][https://cnls.lanl.gov/External/] 
+- Assistant Professor at [Skolkovo Institute of Science and Technology][https://www.skoltech.ru/en/]
 
 ## Research Interests
 
@@ -13,18 +13,18 @@
 
 Ph.D students: 
 
-- Alexandra Burashnikova, Skolkovo Institute of Science and Technology
-(Statistical Theory of Large-Scale Recommender Systems, joint;y supervised with [http://ama.liglab.fr/~amini/ Prof. Massih Amini])
+- Alexandra Burashnikova, Skolkovo Institute of Science and Technology and University Grenoble-Alpes
+(Statistical Theory of Large-Scale Recommender Systems, jointy supervised with [Prof. Massih Amini][http://ama.liglab.fr/~amini/])
 - Mikhail Krechetov, Skolkovo Institute of Science and Technology
 (Convex Relaxations of Non-convex QCQP with Applications to Power Systems and Quantum Computing)
 
 MS.C. students: 
 - Alexander Lukashevich, Skolkovo Institute of Science and Technology
-(Optimization in Gas Grids, jointly supervised with [http://lab7.ipu.ru/eng/people/polyak.html Prof. Boris Polyak])
+(Optimization in Gas Grids, jointly supervised with [Prof. Boris Polyak][http://lab7.ipu.ru/eng/people/polyak.html])
 - Alexander Emchinov, Moscow Institute of Physics and Technology 
-(Bayesian Statistics for Power Systems,  jointly supervised with [http://meche.mit.edu/people/staff/petrvoro@mit.edu Dr. Petr Vorob'ev])
+(Bayesian Statistics for Power Systems,  jointly supervised with [Dr. Petr Vorob'ev][http://meche.mit.edu/people/staff/petrvoro@mit.edu])
 - Artem Mikhalev, Moscow Institute of Physics and Technology 
-(Bayesian Statistics for Power Systems,  jointly supervised with [http://meche.mit.edu/people/staff/petrvoro@mit.edu Dr. Petr Vorob'ev])
+(Bayesian Statistics for Power Systems,  jointly supervised with [Dr. Petr Vorob'ev][http://meche.mit.edu/people/staff/petrvoro@mit.edu])
 - Vasily Novitsky, Moscow Institute of Physics and Technology 
 (Importance Sampling)
 - Samal Kubentaeve, Moscow Institute of Physics and Technology 
