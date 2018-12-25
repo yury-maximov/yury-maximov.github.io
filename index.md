@@ -1,8 +1,8 @@
+![Image](blob/master/img.png)
+
 # Yury Maximov
 - Staff Research Scientist at Los Alamos National Laboratory, [Theoretical Division T-5](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) and [CNLS](https://cnls.lanl.gov/External/) 
 - Assistant Professor at [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/)")
-
-
 
 ## Research Interests
 
@@ -51,11 +51,9 @@
 `Los Alamos National Laboratory`
 - 2017, [Igor Molibog](https://www.ocf.berkeley.edu/~igormolybog/), University of Califormia Berkeley, PhD
 - 2017, [Andrii Riazanov](https://www.andrew.cmu.edu/user/ariazano/riazanov.html), Carnegie Mellon University, PhD
-
-
-
-`Los Alamos National Laboratory` 
 - 2017, [Dongchan Lee](http://www.mit.edu/~dclee/), MIT - Massachusetts Institute of Technology
+
+
 
 ### Markdown
 
