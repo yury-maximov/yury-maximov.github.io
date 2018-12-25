@@ -1,4 +1,4 @@
-![Image](blob/master/img.png)
+![Image](img.png)
 
 # Yury Maximov
 - Staff Research Scientist at Los Alamos National Laboratory, [Theoretical Division T-5](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) and [CNLS](https://cnls.lanl.gov/External/) 
