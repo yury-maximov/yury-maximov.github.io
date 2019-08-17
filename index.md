@@ -1,6 +1,6 @@
 ![Image](img.png)
 
-# Yury Maximov
+# Yury (Yura) Maximov
 - Staff Research Scientist at Los Alamos National Laboratory, [Theoretical Division T-5](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) and [CNLS](https://cnls.lanl.gov/External/) 
 - Assistant Professor at [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/)"
 
@@ -10,7 +10,7 @@
 - Convex and Combinatorial Optimization 
 - Control and Analysis of Infrastructure Grids (Power and Gas)
 
-## CV and Contacts
+## News
 
 ## Research Group
 
@@ -27,10 +27,6 @@
 (Bayesian Statistics for Power Systems,  jointly supervised with [Dr. Petr Vorob'ev](http://meche.mit.edu/people/staff/petrvoro@mit.edu))
 - Artem Mikhalev, Moscow Institute of Physics and Technology 
 (Bayesian Statistics for Power Systems,  jointly supervised with [Dr. Petr Vorob'ev](http://meche.mit.edu/people/staff/petrvoro@mit.edu))
-- Vasily Novitsky, Moscow Institute of Physics and Technology 
-(Importance Sampling)
-- Samal Kubentaeva, Moscow Institute of Physics and Technology 
-(Importance Sampling)
 
 ## Alumni 
 
@@ -40,7 +36,7 @@
 - 2016, Alexander Podkopaev, now at Skolkovo Institute of Science and Technology, MS.C.
 - 2017, [Sergei Volodin](https://scholar.google.com/citations?user=AsDOBXIAAAAJ&hl=en), now at Ecole Polytechnic Federale de Lausanne, Ph.D.
 - 2017, [Roman Pogodin](https://scholar.google.com/citations?user=kLCmh2oAAAAJ&hl=en), now at University Colldge, London, Ph.D.
-- 2017, Valerya Kovaleva, now at Imperial Colledge, London, jointly with Prof. [Sergei Nechaev](https://www.poncelet.ru/people/dr-sergei-nechaev)
+- 2017, Valerya Kovaleva, now at Oxford, jointly with Prof. [Sergei Nechaev](https://www.poncelet.ru/people/dr-sergei-nechaev)
 - 2017, Oleh Horodnitskii, now at Skolkovo Institute of Science and Technology
 - 2018, [Alexey Sholokhov](https://amath.washington.edu/people/alexey-sholokhov), now at University of Washington, Ph.D.
 
@@ -54,4 +50,5 @@
 - 2017, [Igor Molibog](https://www.ocf.berkeley.edu/~igormolybog/), University of Califormia Berkeley, PhD
 - 2017, [Andrii Riazanov](https://www.andrew.cmu.edu/user/ariazano/riazanov.html), Carnegie Mellon University, PhD
 - 2017, [Dongchan Lee](http://www.mit.edu/~dclee/), MIT - Massachusetts Institute of Technology
+- 2019, [Anya Katsevich](https://www.krellinst.org/csgf/fellow/katsevich2017), NYU -- New York University (DOE Computational Science Fellow)
 
