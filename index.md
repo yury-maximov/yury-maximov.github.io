@@ -2,13 +2,13 @@
 
 # Yury Maximov
 - Staff Research Scientist at Los Alamos National Laboratory, [Theoretical Division T-5](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) and [CNLS](https://cnls.lanl.gov/External/) 
-- Assistant Professor at [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/)")
+- Assistant Professor at [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/)"
 
 ## Research Interests
 
 - Statistical Theory of Machine Learning
 - Convex and Combinatorial Optimization 
-- Control and Analysis of Power Grids
+- Control and Analysis of Infrastructure Grids (Power and Gas)
 
 ## CV and Contacts
 
