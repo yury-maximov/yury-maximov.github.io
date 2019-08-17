@@ -12,14 +12,13 @@
 
 ## News
 
--- `August 2019` Blog post ["Pushing the boundaries of convex optimization"](https://www.ibm.com/blogs/research/2019/08/convex-optimization/) on IBM-Research web-site highlights our research on low rank semidefinite programming. 
--- `June 2019` Our new paper ["A New Family of Tractable Ising Models"](https://arxiv.org/abs/1906.06431) with Misha Chertkov and Valerii Likhosherstov is on ArXiv now!
--- `June 2019` Our paper ["Sequential Learning over Implicit Feedback for Robust Large-Scale Recommender Systems"](https://arxiv.org/abs/1902.08495) with Sasha Burashnikova and Massih Amini has been accepted to [ECML-PKDD 2019](http://ecmlpkdd2019.org)
--- `May 2019` Our paper ["Entropy-Penalized Semidefinite Programming"](https://www.ijcai.org/proceedings/2019/157) with Mikhail Krechetov, Jakub Marecek, and Martin Takac has been accepted to IJCAI-2019
--- `April 2019` Our paper ["Inference and Sampling of K33-free Ising Models"](http://proceedings.mlr.press/v97/likhosherstov19a.html) with Misha Chertkov and Valerii Likhosherstov has been accepted to the International Conference on Machine Learning (ICML)!
--- `March 2019` Our paper ["Importance sampling the union of rare events with an application to power systems analysis"](https://projecteuclid.org/euclid.ejs/1548817590) with Art Owen and Misha Chertkov has been published at the Electronic Journal of Statistics
--- `January 2019` Our new paper ["Learning a Generator Model from Terminal Bus Data"](https://arxiv.org/abs/1901.00781) is on ArXiv now!
--- 
+- `August 2019` Blog post ["Pushing the boundaries of convex optimization"](https://www.ibm.com/blogs/research/2019/08/convex-optimization/) on IBM-Research web-site highlights our research on low rank semidefinite programming. 
+- `June 2019` Our new paper ["A New Family of Tractable Ising Models"](https://arxiv.org/abs/1906.06431) with Misha Chertkov and Valerii Likhosherstov is on ArXiv now!
+- `June 2019` Our paper ["Sequential Learning over Implicit Feedback for Robust Large-Scale Recommender Systems"](https://arxiv.org/abs/1902.08495) with Sasha Burashnikova and Massih Amini has been accepted to [ECML-PKDD 2019](http://ecmlpkdd2019.org)
+- `May 2019` Our paper ["Entropy-Penalized Semidefinite Programming"](https://www.ijcai.org/proceedings/2019/157) with Mikhail Krechetov, Jakub Marecek, and Martin Takac has been accepted to IJCAI-2019
+- `April 2019` Our paper ["Inference and Sampling of K33-free Ising Models"](http://proceedings.mlr.press/v97/likhosherstov19a.html) with Misha Chertkov and Valerii Likhosherstov has been accepted to the International Conference on Machine Learning (ICML)!
+- `March 2019` Our paper ["Importance sampling the union of rare events with an application to power systems analysis"](https://projecteuclid.org/euclid.ejs/1548817590) with Art Owen and Misha Chertkov has been published at the Electronic Journal of Statistics
+- `January 2019` Our new paper ["Learning a Generator Model from Terminal Bus Data"](https://arxiv.org/abs/1901.00781) is on ArXiv now! 
 
 
 ## Research Group
