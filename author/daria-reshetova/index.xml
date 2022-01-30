@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daria Reshetova | Yury Maximov</title>
+    <link>https://yury-maximov.github.io/author/daria-reshetova/</link>
+      <atom:link href="https://yury-maximov.github.io/author/daria-reshetova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daria Reshetova</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yury Maximov 2022</copyright><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yury-maximov.github.io/media/icon_hue0593c9b7c2b9bc1f262b27fbb652d79_76100_512x512_fill_lanczos_center_3.png</url>
+      <title>Daria Reshetova</title>
+      <link>https://yury-maximov.github.io/author/daria-reshetova/</link>
+    </image>
+    
+    <item>
+      <title>Tight risk bounds for multi-class margin classifiers</title>
+      <link>https://yury-maximov.github.io/publication/j07-dasha-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j07-dasha-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

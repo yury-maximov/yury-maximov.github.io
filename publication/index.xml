@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yury Maximov</title>
+    <link>https://yury-maximov.github.io/publication/</link>
+      <atom:link href="https://yury-maximov.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yury Maximov 2022</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yury-maximov.github.io/media/icon_hue0593c9b7c2b9bc1f262b27fbb652d79_76100_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://yury-maximov.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Power Grid Reliability Estimation via Adaptive Importance Sampling</title>
+      <link>https://yury-maximov.github.io/publication/j30-lukashevich-2021/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j30-lukashevich-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning over no-Preferred and Preferred Sequence of items for Robust Recommendation</title>
+      <link>https://yury-maximov.github.io/publication/j25-amini-2020/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j25-amini-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User preference and embedding learning with implicit feedback for recommender systems</title>
+      <link>https://yury-maximov.github.io/publication/j24-sidana-2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j24-sidana-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient numerical methods to solve sparse linear equations with application to PageRank</title>
+      <link>https://yury-maximov.github.io/publication/j26-nesterov-2020/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j26-nesterov-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tractable minor-free generalization of planar zero-field Ising models</title>
+      <link>https://yury-maximov.github.io/publication/j27-chertkov-2020/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j27-chertkov-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gauges, loops, and polynomials for partition functions of graphical models</title>
+      <link>https://yury-maximov.github.io/publication/j29-chernyak-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j29-chernyak-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning model of generator from terminal data</title>
+      <link>https://yury-maximov.github.io/publication/j23-stulov-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j23-stulov-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Framework for Power System Components Identification</title>
+      <link>https://yury-maximov.github.io/publication/c28-artem-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/c28-artem-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference and Sampling of \(K_{3,3}\)-free Ising Models</title>
+      <link>https://yury-maximov.github.io/publication/c19-valera-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/c19-valera-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy-Penalized Semidefinite Programming</title>
+      <link>https://yury-maximov.github.io/publication/c17-misha-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/c17-misha-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Family of Tractable Ising Models</title>
+      <link>https://yury-maximov.github.io/publication/p-21-likhosherstov-2019/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/p-21-likhosherstov-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Learning over Implicit Feedback for Robust Large-Scale Recommender Systems</title>
+      <link>https://yury-maximov.github.io/publication/c20-burashnikova-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/c20-burashnikova-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance sampling the union of rare events with an application to power systems analysis</title>
+      <link>https://yury-maximov.github.io/publication/j18-owen-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j18-owen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belief Propagation Min-Sum Algorithm for Generalized Min-Cost Network Flow</title>
+      <link>https://yury-maximov.github.io/publication/c14-andrei-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/c14-andrei-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rademacher Complexity Bounds for a Penalized Multi-class Semi-supervised Algorithm</title>
+      <link>https://yury-maximov.github.io/publication/j16-zaid-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j16-zaid-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rademacher Complexity Bounds for a Penalized Multiclass Semi-Supervised Algorithm</title>
+      <link>https://yury-maximov.github.io/publication/c16-zaid-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/c16-zaid-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggressive Sampling for Multi-class to Binary Reduction with Applications to Text Classification</title>
+      <link>https://yury-maximov.github.io/publication/c10-bikash-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/c10-bikash-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peculiar spectral statistics of ensembles of trees and star-like graphs</title>
+      <link>https://yury-maximov.github.io/publication/j12-lera-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j12-lera-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise estimation for color visualization of multispectral images</title>
+      <link>https://yury-maximov.github.io/publication/c09-ivan-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/c09-ivan-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tight risk bounds for multi-class margin classifiers</title>
+      <link>https://yury-maximov.github.io/publication/j07-dasha-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j07-dasha-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduction based similarity learning for high dimensional problems</title>
+      <link>https://yury-maximov.github.io/publication/j06-galya-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j06-galya-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical methods for the problem of traffic flow equilibrium in the Beckmann and the stable dynamic models</title>
+      <link>https://yury-maximov.github.io/publication/j08-dorn-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j08-dorn-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortest and minimal disjunctive normal forms of complete functions</title>
+      <link>https://yury-maximov.github.io/publication/j05-cmmp-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j05-cmmp-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Boolean functions with a bounded number of zeros by disjunctive normal forms</title>
+      <link>https://yury-maximov.github.io/publication/j04-cmmp-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j04-cmmp-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of the complexity of boolean functions with a small number of zeros</title>
+      <link>https://yury-maximov.github.io/publication/j03-danb-2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j03-danb-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple disjunctive normal forms of Boolean functions with a restricted number of zeros</title>
+      <link>https://yury-maximov.github.io/publication/j02-dana-2012/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j02-dana-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correct algebras over estimation algorithms in the set of regular recognition problems with nonoverlapping classes</title>
+      <link>https://yury-maximov.github.io/publication/j01-cmmp-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j01-cmmp-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marianne Clausel | Yury Maximov</title>
+    <link>https://yury-maximov.github.io/author/marianne-clausel/</link>
+      <atom:link href="https://yury-maximov.github.io/author/marianne-clausel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marianne Clausel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yury Maximov 2022</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yury-maximov.github.io/media/icon_hue0593c9b7c2b9bc1f262b27fbb652d79_76100_512x512_fill_lanczos_center_3.png</url>
+      <title>Marianne Clausel</title>
+      <link>https://yury-maximov.github.io/author/marianne-clausel/</link>
+    </image>
+    
+    <item>
+      <title>Learning over no-Preferred and Preferred Sequence of items for Robust Recommendation</title>
+      <link>https://yury-maximov.github.io/publication/j25-amini-2020/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j25-amini-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

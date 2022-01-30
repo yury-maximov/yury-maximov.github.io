@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yury Maximov</title>
+    <link>https://yury-maximov.github.io/authors/</link>
+      <atom:link href="https://yury-maximov.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yury Maximov 2022</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yury-maximov.github.io/media/icon_hue0593c9b7c2b9bc1f262b27fbb652d79_76100_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://yury-maximov.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

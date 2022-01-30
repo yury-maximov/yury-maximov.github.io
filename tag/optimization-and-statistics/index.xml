@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization and Statistics | Yury Maximov</title>
+    <link>https://yury-maximov.github.io/tag/optimization-and-statistics/</link>
+      <atom:link href="https://yury-maximov.github.io/tag/optimization-and-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization and Statistics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yury Maximov 2022</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yury-maximov.github.io/media/icon_hue0593c9b7c2b9bc1f262b27fbb652d79_76100_512x512_fill_lanczos_center_3.png</url>
+      <title>Optimization and Statistics</title>
+      <link>https://yury-maximov.github.io/tag/optimization-and-statistics/</link>
+    </image>
+    
+    <item>
+      <title>Enviromental-, Society-, and Governance- (ESG) Risk Analysis</title>
+      <link>https://yury-maximov.github.io/project/internal-project-30/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/project/internal-project-30/</guid>
+      <description>&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;
+&lt;p&gt;ESG stands for Environmental, Social, and Corporate Governance factors, which is a set of standards for company operations that are consistent with sustainable development goals. Socially conscious investors use ESG standards to screen potential investments and examine their investment strategies.&lt;/p&gt;
+&lt;p&gt;Jointly with the experts of the &lt;a href=&#34;https://www.nes.ru/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Economic School&lt;/a&gt; we work on improving investment decisions by &lt;/br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;detecting &lt;a href=&#34;https://en.wikipedia.org/wiki/Greenwashing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Greenwashing&lt;/a&gt; with advanced machine learning techniques&lt;/li&gt;&lt;/li&gt;
+&lt;li&gt;analyzing ESG-induced financial risks and estimating ESG bonds&#39; fair price.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/0/08/20200118_Global_warming_and_climate_change_-_vertical_block_diagram_-_causes_effects_feedback.png&#34; width=&#34;800&#34; height=&#34;40&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Importance Sampling and Optimization</title>
+      <link>https://yury-maximov.github.io/project/internal-project-20/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/project/internal-project-20/</guid>
+      <description>&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;
+&lt;p&gt;Importance sampling is a popular technique for estimating high-dimensional distributions, while only having samples generated from a different distribution than the distribution of interest. In our research we are working constructing optimal importance samplers and revealing interesting two-way connections of importance sampling and convex optimization. Finally, we pay a special attention to applications of importance sampling for applications. Some of our relevant papers are outlined &lt;a href=&#34;http://localhost:4321/#featured&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

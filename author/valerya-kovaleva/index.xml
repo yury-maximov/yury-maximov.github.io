@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valerya Kovaleva | Yury Maximov</title>
+    <link>https://yury-maximov.github.io/author/valerya-kovaleva/</link>
+      <atom:link href="https://yury-maximov.github.io/author/valerya-kovaleva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valerya Kovaleva</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yury Maximov 2022</copyright><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yury-maximov.github.io/media/icon_hue0593c9b7c2b9bc1f262b27fbb652d79_76100_512x512_fill_lanczos_center_3.png</url>
+      <title>Valerya Kovaleva</title>
+      <link>https://yury-maximov.github.io/author/valerya-kovaleva/</link>
+    </image>
+    
+    <item>
+      <title>Peculiar spectral statistics of ensembles of trees and star-like graphs</title>
+      <link>https://yury-maximov.github.io/publication/j12-lera-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://yury-maximov.github.io/publication/j12-lera-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

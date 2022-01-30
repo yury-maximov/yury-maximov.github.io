@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theoretical Foundations of Applied Mathematics | Yury Maximov</title>
+    <link>https://yury-maximov.github.io/courses/example-30/</link>
+      <atom:link href="https://yury-maximov.github.io/courses/example-30/index.xml" rel="self" type="application/rss+xml" />
+    <description>Theoretical Foundations of Applied Mathematics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yury Maximov 2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yury-maximov.github.io/courses/example-30/featured.jpg</url>
+      <title>Theoretical Foundations of Applied Mathematics</title>
+      <link>https://yury-maximov.github.io/courses/example-30/</link>
+    </image>
+    
+  </channel>
+</rss>
